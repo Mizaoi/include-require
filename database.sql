@@ -8,5 +8,8 @@ CREATE TABLE IF NOT EXISTS wisatawan (
 );
 
 INSERT INTO wisatawan (nama, asal) VALUES 
-('Mizaoi', 'Jepang'), 
-('Madawertu', 'Majapahit');
+('Rendi', 'Jembar'), 
+('Lestari', 'Bedebesa'),
+('Pamungkas', 'Majang'), 
+('Maimunah', 'Sampang'),
+('Hitochi', 'Jepang');
